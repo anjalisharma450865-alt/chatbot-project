@@ -16,3 +16,4 @@ This is a GUI-based chatbot built using Python. It can respond to user queries a
 ## ▶️ How to Run
 ```bash
 python chatbot_gui.py
+![Chatbot Screenshot](chatbot.png)
