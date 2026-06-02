@@ -25,4 +25,4 @@ python chatbot_gui.py
 ## 📷 Output
 <p align="center">
   <img src="chatbot.png" width="300">
-</p>
+</p> 
