@@ -22,3 +22,7 @@ This is a GUI-based chatbot built using Python. It can respond to user queries a
 ## ▶️ How to Run
 ```bash
 python chatbot_gui.py
+## 📷 Output
+<p align="center">
+  <img src="chatbot.png" width="300">
+</p>
